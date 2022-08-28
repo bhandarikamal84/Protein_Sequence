@@ -1,2 +1,2 @@
-# Protein_Sequence
-A novel protein sequence data driven approaches to protein design and extract the functional, structural, mutational, and evolution information about a protein family.
+# Protein_Sequence.
+Sequence analysis is the study of protein sequence to understand it's feature, function, structure or evolution using any of a wide range of analytical methods. I use a sequence data driven computational approach to protein sequence using the concept conditional probability and direct coupling analysis (DCA) in order to extract the functional, structural, mutational and interaction information of the protein family.
